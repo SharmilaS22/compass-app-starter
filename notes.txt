@@ -1,0 +1,10 @@
+sudo apt install ruby-full
+sudo gem install compass
+compass create <dir_name>
+
+--
+create scss file
+live sass compiler extension -> watch sass
+(scss convertd to css)
+link generated css file to html
+--
